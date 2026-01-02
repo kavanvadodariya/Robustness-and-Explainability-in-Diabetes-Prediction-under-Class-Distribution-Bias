@@ -53,7 +53,7 @@ bmx  = pd.read_sas("data/nhanes/BMX_L.XPT")
 bpx  = pd.read_sas("data/nhanes/BPQ_L.XPT")
 diq  = pd.read_sas("data/nhanes/DIQ_L.XPT")
 smq  = pd.read_sas("data/nhanes/SMQ_L.XPT")
-
+```
 ## 5. Data Cleaning and Label Construction
 
 Only participants with complete records across all selected components are retained.
