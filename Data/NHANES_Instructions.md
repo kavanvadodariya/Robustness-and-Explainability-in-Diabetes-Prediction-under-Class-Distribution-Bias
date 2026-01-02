@@ -8,7 +8,7 @@ NHANES data is publicly available but is **not included** in this repository due
 
 ## 1. NHANES Cycle Used
 
-This study uses data from the **NHANES 2017–2018 cycle**.
+This study uses data from the **NHANES 2021–2023 cycle**.
 
 All NHANES files are provided in **SAS Transport (.XPT) format**.
 
