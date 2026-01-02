@@ -91,5 +91,4 @@ If you use NHANES data, please cite:
 Centers for Disease Control and Prevention (CDC).
 National Health and Nutrition Examination Survey.
 https://www.cdc.gov/nchs/nhanes/
-4. Place all downloaded files in the following directory structure:
 
